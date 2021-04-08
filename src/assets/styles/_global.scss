@@ -1,0 +1,12 @@
+$color-principal: #8f57fd;
+$color-claro: white;
+$fuente1: "Muli", sans-serif;
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: $fuente1;
+  background: $color-principal;
+}
